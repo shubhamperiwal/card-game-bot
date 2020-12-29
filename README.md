@@ -9,6 +9,6 @@ As of now, there are 5 games users can play alone or with their friends:
 2. Hearts
 3. BlackJack
 4. Chameleon
-5. Card Trick - users can witness a simple card trick
+5. Card Trick - users can be a part of a simple card trick
 
-Currently, there are over 50 users signed up on the bot and dozens of games have been played.
+As of April 2020, there are over 50 users signed up on the bot and dozens of games have been played.
